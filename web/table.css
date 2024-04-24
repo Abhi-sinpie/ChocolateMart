@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    min-height: 100vh;
+    background: #03a9f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main.table{
+    width:82vw;
+    height: 90vw;
+    background-color: #03a9f4;
+    box-shadow: o.4rem .8rem #0005;
+    border-radius: .8px;
+}
+/*table,th,td*/

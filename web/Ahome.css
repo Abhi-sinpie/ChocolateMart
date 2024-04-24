@@ -1,0 +1,35 @@
+#tablecss{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;		
+        }
+#tablecss td,#tablecss th{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+        }
+#tablecss tr:hover{
+    background-color: #ddd;
+    }
+#tablecss th{
+    height:40px;
+    padding-top:12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #2691d9;
+    color: white; 
+    }
+#tablecss td{
+    text-align: center;
+    height:65px;
+    }
+#tablecss b{
+    background: #474fa0;
+    color:#fff;
+    border-radius: 0.5rem;
+    padding: 10px 20px;
+    font-weight: 500;
+    }
+#tablecss b:hover{
+    background:#2691d9;
+}
